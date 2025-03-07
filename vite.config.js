@@ -9,7 +9,7 @@ export default defineConfig({
     tailwindcss()
   ],
   
-   base: '/Bakery-Cake-Website/',
+   base: '/Bakes-web/',
    
   css: {
     preprocessorOptions: {
